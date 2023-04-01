@@ -1,0 +1,1 @@
+In this project we will look at file/image uploading in Node.js with the Multer module. We will also be using the EJS template engine and MaterializeCSS for the form UI.
